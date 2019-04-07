@@ -1,0 +1,10 @@
+.name {
+  font-weight: bold;
+  font-weight: italic;
+  text-decoration: underline;
+}
+.image1 {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
